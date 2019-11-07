@@ -166,6 +166,10 @@ section {
     word-spacing: .3pt;
 }
 
+.rsvp-text {
+    text-align: center;
+}
+
 .reservation p {
     color: 13161b;
     width: 50%;
@@ -211,8 +215,8 @@ section {
 }
 
 .terms {
-    margin: 30px 1px 0 0 ;
-    padding-left: 52px;
+    margin: 10px 1px 0 0 ;
+    padding-left: 50%;
     font-size: 14px;
     line-height: 5px;
     color: #000;
@@ -220,7 +224,7 @@ section {
     font-family: 'Raleway' sans-serif;
     font-weight: 600;
     position: relative;
-    display: inline;
+    float: right;
 }
 
 .terms:hover {
