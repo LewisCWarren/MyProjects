@@ -1,0 +1,164 @@
+[33mcommit ce6b7c38ea01a5ce61c36a65a9c6eaf3d22a9b47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Nov 13 14:15:18 2019 -0800
+
+    Adding project website
+
+[33mcommit d216aea38d4fcd160f1036a85c1133654f07faaa[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Nov 13 13:46:16 2019 -0800
+
+    adding my portfolio website.
+
+[33mcommit 05eadb425ea88b977b574a6504b8d675b328b94f[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Nov 13 13:08:01 2019 -0800
+
+    adding my portfolio website.
+
+[33mcommit 70ebde4bc95ddc44445d1484b77c93903847007e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Fri Nov 8 14:30:07 2019 -0800
+
+    fixing a dead link
+
+[33mcommit fd1c5bc2ef53e7c150990745c2441efce980f7a5[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Fri Nov 8 14:27:49 2019 -0800
+
+    Adding basic cinema website per assignment.
+
+[33mcommit beee477fff6da5fedff46b6bd25649e1a7fdb774[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Thu Nov 7 15:01:12 2019 -0800
+
+    Updating with CSS
+
+[33mcommit 42c67253734d595bb7e465d958b398e24cf247f1[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Thu Nov 7 14:04:40 2019 -0800
+
+    fixing issue with navbar and forms section.
+
+[33mcommit dc953b10c856d350c6f02e98e2662126eb53e171[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Thu Nov 7 11:32:39 2019 -0800
+
+    Mostly finished index.html
+
+[33mcommit d6d34e04a16729a4d59d847081a56cc2e8b5b4ee[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Nov 6 10:33:49 2019 -0800
+
+    Adding assignment from video on pg. 297
+
+[33mcommit 455db4b73c67e1a0ce229b14899e056f75604d24[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Tue Nov 5 15:26:59 2019 -0800
+
+    Adding assignments
+
+[33mcommit 092c9a5818d61c57e7d952d9d26e7bf5eeccb231[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Tue Nov 5 14:14:24 2019 -0800
+
+    Adding new assignments
+
+[33mcommit d331347a9b9b45a9c6feac0d9f7bfb5e8c896100[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Nov 4 12:54:47 2019 -0800
+
+    Creating webpages for assignments
+
+[33mcommit c6b6e2edcaf1786d92cd24db293d6f6401c5fa21[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Nov 4 09:38:38 2019 -0800
+
+    Adding more code per assignment
+
+[33mcommit e54b2fc9ec4f7b0076ae1fdd704c34717fbf79c4[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Thu Oct 31 14:30:53 2019 -0700
+
+    Course assignments
+    
+    Adding assignments
+
+[33mcommit b8ca012d1ae0b1312a0ed2515bdeb9f5f9316e31[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Oct 30 14:57:14 2019 -0700
+
+    adding new files per course assignment
+
+[33mcommit d20a97b24109ff4e1b3337205178524748556a95[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Wed Oct 30 07:54:40 2019 -0700
+
+    Adding nav elements to all pages
+
+[33mcommit e838028cd86c7fc920a3d1056de4fd00e8a5c717[m[33m ([m[1;32mhtmllearning[m[33m)[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Tue Oct 29 15:58:15 2019 -0700
+
+    Adding embedded videos and utilizing nav links for challenge
+
+[33mcommit dca05cf00801a8ace1b5d6a4ab193c413b846546[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Tue Oct 29 14:17:19 2019 -0700
+
+    adding assignments per html course
+
+[33mcommit 1a64e1159f1a197951de72a8a590c3229131349b[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Tue Oct 29 14:12:43 2019 -0700
+
+    cleaning up unnecessary files
+
+[33mcommit 0d4544fb72321d4b3a31d1c79b43d6b417b5c1d8[m
+Merge: f24367f c8e227b
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 14:10:41 2019 -0700
+
+    Merge branch 'branch2'
+
+[33mcommit f24367f190bb1e449d0019e68a696d497020d957[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 14:10:23 2019 -0700
+
+    commitiing to rectify merge conflict
+
+[33mcommit c8e227b7019fb06f8e8e0344ea8c7f733b6f0eeb[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 14:00:22 2019 -0700
+
+    making change to test merge error
+
+[33mcommit 58d60732d54e6585097e08264fe73e9ee5749b21[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 13:55:57 2019 -0700
+
+    testing merge conflicts
+
+[33mcommit a403aa66c3e2fb0aee7d706b810a7ab63cdb5317[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 13:43:44 2019 -0700
+
+    testing to see if i can get back to an earlier version on my own
+
+[33mcommit f984efcbb72270ade1bb23d8c27352da248cf377[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 13:20:41 2019 -0700
+
+    added some changes to the files for practice
+
+[33mcommit 86ac1fdef03ea93ad6eb799527468a9e979af832[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 13:02:02 2019 -0700
+
+    Added new resume iterations for various job opportunities
+
+[33mcommit 164ac9e2783c507e618a76956c1960122ae81dac[m
+Author: Lewis <lewis.c.warren@gmail.com>
+Date:   Mon Oct 28 12:56:30 2019 -0700
+
+    Added new resume
